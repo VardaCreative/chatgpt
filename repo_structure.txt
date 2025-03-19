@@ -1,0 +1,175 @@
+Folder PATH listing for volume VARDA_DATAS
+Volume serial number is 1C1A-F90F
+D:.
+³   .env
+³   .gitignore
+³   bun.lockb
+³   components.json
+³   directory_list.txt
+³   eslint.config.js
+³   git
+³   index.html
+³   package-lock.json
+³   package.json
+³   postcss.config.js
+³   README.md
+³   repo_structure.txt
+³   tailwind.config.ts
+³   tsconfig.app.json
+³   tsconfig.json
+³   tsconfig.node.json
+³   vite.config.ts
+³   
+ÃÄÄÄpublic
+³       favicon.ico
+³       og-image.png
+³       placeholder.svg
+³       
+ÃÄÄÄsrc
+³   ³   App.css
+³   ³   App.tsx
+³   ³   index.css
+³   ³   main.tsx
+³   ³   vite-env.d.ts
+³   ³   
+³   ÃÄÄÄcomponents
+³   ³   ³   PrivateRoute.tsx
+³   ³   ³   
+³   ³   ÃÄÄÄcommon
+³   ³   ³       FormDialog.tsx
+³   ³   ³       
+³   ³   ÃÄÄÄdashboard
+³   ³   ³       Chart.tsx
+³   ³   ³       DashboardCard.tsx
+³   ³   ³       MetricCard.tsx
+³   ³   ³       
+³   ³   ÃÄÄÄlayout
+³   ³   ³       Header.tsx
+³   ³   ³       PageContainer.tsx
+³   ³   ³       Sidebar.tsx
+³   ³   ³       
+³   ³   ÃÄÄÄproduction
+³   ³   ³       ProductionPlanner.tsx
+³   ³   ³       ProductionProcesses.tsx
+³   ³   ³       ProductionStatus.tsx
+³   ³   ³       
+³   ³   ÃÄÄÄpurchases
+³   ³   ³   ³   PurchaseDeleteDialog.tsx
+³   ³   ³   ³   PurchaseTableColumns.tsx
+³   ³   ³   ³   RawMaterialForm.tsx
+³   ³   ³   ³   RawMaterialsManagement.tsx
+³   ³   ³   ³   StockPurchaseForm.tsx
+³   ³   ³   ³   StockPurchasesManagement.tsx
+³   ³   ³   ³   StockStatusStats.tsx
+³   ³   ³   ³   StockStatusTable.tsx
+³   ³   ³   ³   StockStatusView.tsx
+³   ³   ³   ³   types.ts
+³   ³   ³   ³   useStockManager.ts
+³   ³   ³   ³   VendorForm.tsx
+³   ³   ³   ³   VendorManagement.tsx
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄhooks
+³   ³   ³           usePurchasesManager.tsx
+³   ³   ³           
+³   ³   ÃÄÄÄsales
+³   ³   ³       InventoryItemForm.tsx
+³   ³   ³       InventoryManagement.tsx
+³   ³   ³       InventoryStatus.tsx
+³   ³   ³       SaleForm.tsx
+³   ³   ³       SalesChannelForm.tsx
+³   ³   ³       SalesChannels.tsx
+³   ³   ³       SalesRecord.tsx
+³   ³   ³       
+³   ³   ÃÄÄÄtasks
+³   ³   ³       StaffForm.tsx
+³   ³   ³       StaffManagement.tsx
+³   ³   ³       TaskForm.tsx
+³   ³   ³       TaskManagement.tsx
+³   ³   ³       
+³   ³   ÀÄÄÄui
+³   ³           accordion.tsx
+³   ³           alert-dialog.tsx
+³   ³           alert.tsx
+³   ³           aspect-ratio.tsx
+³   ³           avatar.tsx
+³   ³           badge.tsx
+³   ³           breadcrumb.tsx
+³   ³           button.tsx
+³   ³           calendar.tsx
+³   ³           card.tsx
+³   ³           carousel.tsx
+³   ³           chart.tsx
+³   ³           checkbox.tsx
+³   ³           collapsible.tsx
+³   ³           command.tsx
+³   ³           context-menu.tsx
+³   ³           data-table.tsx
+³   ³           dialog.tsx
+³   ³           drawer.tsx
+³   ³           dropdown-menu.tsx
+³   ³           form.tsx
+³   ³           hover-card.tsx
+³   ³           input-otp.tsx
+³   ³           input.tsx
+³   ³           label.tsx
+³   ³           menubar.tsx
+³   ³           navigation-menu.tsx
+³   ³           pagination.tsx
+³   ³           popover.tsx
+³   ³           progress.tsx
+³   ³           radio-group.tsx
+³   ³           resizable.tsx
+³   ³           scroll-area.tsx
+³   ³           select.tsx
+³   ³           separator.tsx
+³   ³           sheet.tsx
+³   ³           sidebar.tsx
+³   ³           skeleton.tsx
+³   ³           slider.tsx
+³   ³           sonner.tsx
+³   ³           switch.tsx
+³   ³           table.tsx
+³   ³           tabs.tsx
+³   ³           textarea.tsx
+³   ³           toast.tsx
+³   ³           toaster.tsx
+³   ³           toggle-group.tsx
+³   ³           toggle.tsx
+³   ³           tooltip.tsx
+³   ³           use-toast.ts
+³   ³           
+³   ÃÄÄÄdata
+³   ³       salesData.ts
+³   ³       
+³   ÃÄÄÄhooks
+³   ³       use-mobile.tsx
+³   ³       use-toast.ts
+³   ³       
+³   ÃÄÄÄintegrations
+³   ³   ÀÄÄÄsupabase
+³   ³           client.ts
+³   ³           types.ts
+³   ³           
+³   ÃÄÄÄlib
+³   ³       database.ts
+³   ³       supabase.ts
+³   ³       utils.ts
+³   ³       
+³   ÀÄÄÄpages
+³           Dashboard.tsx
+³           Index.tsx
+³           Login.tsx
+³           NotFound.tsx
+³           Production.tsx
+³           Products.tsx
+³           Purchases.tsx
+³           Reports.tsx
+³           Sales.tsx
+³           Settings.tsx
+³           Staff.tsx
+³           Tasks.tsx
+³           Vendors.tsx
+³           
+ÀÄÄÄsupabase
+        config.toml
+        
